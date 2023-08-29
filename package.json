@@ -1,0 +1,13 @@
+{
+  "name": "ts-node-fullstack-scaffold",
+  "version": "1.0.0",
+  "description": "Typescript fullstack node project scaffolding using Rollup and a handful of plugins. It makes frontend and backend Typescript code ready to use, all under a single module.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
